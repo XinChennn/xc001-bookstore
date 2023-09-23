@@ -4,7 +4,13 @@
 
 **如果图片加载不出来可以去博客看 https://blog.csdn.net/qq_56450993/article/details/133201229**
 
-**毕业设计所有选题地址 https://github.com/XinChennn/allProjects**
+**毕业设计所有选题地址**
+
+**[github]👉https://github.com/XinChennn/allProjects**
+
+**[gitee]👉https://gitee.com/xinchennn/allProjects**
+
+**[忻辰的个人博客]👉https://www.ixinjiu.cn/articles/156**
 
 ## 基于springboot的电商书城系统(源代码+数据库)
 
